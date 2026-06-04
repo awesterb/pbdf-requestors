@@ -294,5 +294,17 @@
             "nl": "Procolix"
         },
         "scheme": "pbdf-requestors"
+    },
+    {
+        "id": "pbdf-requestors.decidos",
+        "logo": "63fa461e36d9fad859d70ebab30afbe563fa073e342c941084fd8f44792f4e4c",
+        "hostnames": [
+            "decidos.fmjansen.com"
+        ],
+        "name": {
+            "en": "Decidos",
+            "nl": "Decidos"
+        },
+        "scheme": "pbdf-requestors"
     }
 ]
