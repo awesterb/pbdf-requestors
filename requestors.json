@@ -306,5 +306,18 @@
             "nl": "Decidos"
         },
         "scheme": "pbdf-requestors"
+    },
+    {
+        "id": "pbdf-requestors.zynyo",
+        "logo": "c3b09f4f7f0a173e333b75c0ec55444a5fdbe00fea1d4d673dbd60df5121048d",
+        "hostnames": [
+            "irmaserver.kubernetes.zynyo.com",
+            "yiviserver.zynyo.com"
+        ],
+        "name": {
+            "en": "Zynyo",
+            "nl": "Zynyo"
+        },
+        "scheme": "pbdf-requestors"
     }
 ]
